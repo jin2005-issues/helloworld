@@ -1,4 +1,5 @@
-# JPEG
+# Audio
 
-*.jif
-*.jfi
+*.wav
+*.mp3
+*.ogg
